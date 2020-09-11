@@ -627,13 +627,13 @@ input[type="radio"] + label:before {
 
 /*New section*/
 .auto-resizable-iframe {
-  max-width: 420px;
+  /*max-width: 420px;*/
   margin: 0px auto;
 }
 
 .auto-resizable-iframe > div {
   position: relative;
-  padding-bottom: 75%;
+  padding-bottom: 60%;
   height: 0px;
 }
 
